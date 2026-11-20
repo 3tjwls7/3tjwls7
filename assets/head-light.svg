@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="김서진 · Web Developer">
+<defs><clipPath id="r"><rect width="900" height="200"/></clipPath></defs>
+<g clip-path="url(#r)">
+<g><path d="M0 158 Q112 144 225 158 T450 158 Q562 144 675 158 T900 158 Q1012 144 1125 158 T1350 158 Q1462 144 1575 158 T1800 158 V400 H0 Z" fill="#2f6feb" opacity="0.1"><animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="14s" repeatCount="indefinite"/></path></g>
+<g><path d="M0 170 Q112 160 225 170 T450 170 Q562 160 675 170 T900 170 Q1012 160 1125 170 T1350 170 Q1462 160 1575 170 T1800 170 V400 H0 Z" fill="#2f6feb" opacity="0.16"><animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="9s" repeatCount="indefinite"/></path></g>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+<text x="450.0" y="92" text-anchor="middle" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Segoe UI', sans-serif" font-size="52" font-weight="800" fill="#1f2328">김서진</text>
+<text x="450.0" y="128" text-anchor="middle" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Segoe UI', sans-serif" font-size="17" font-weight="700" letter-spacing="1.5" fill="#2f6feb">Web Developer</text>
+</g>
+</svg>

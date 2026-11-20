@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60" role="img" aria-label="">
+<defs><clipPath id="r"><rect width="900" height="60"/></clipPath></defs>
+<g clip-path="url(#r)">
+<g transform="translate(0 -140)"><g><path d="M0 170 Q112 156 225 170 T450 170 Q562 156 675 170 T900 170 Q1012 156 1125 170 T1350 170 Q1462 156 1575 170 T1800 170 V400 H0 Z" fill="#58a6ff" opacity="0.1"><animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="14s" repeatCount="indefinite"/></path></g><g><path d="M0 182 Q112 172 225 182 T450 182 Q562 172 675 182 T900 182 Q1012 172 1125 182 T1350 182 Q1462 172 1575 182 T1800 182 V400 H0 Z" fill="#58a6ff" opacity="0.16"><animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="9s" repeatCount="indefinite"/></path></g></g>
+</g>
+</svg>
